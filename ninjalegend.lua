@@ -1,9 +1,9 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
  
 local Window = Rayfield:CreateWindow({
-    Name = "BC9 || NINJA LEGENDS",
+    Name = "ROBLOX || NINJA LEGENDS",
     LoadingTitle = "Ninja Legends Hub",
-    LoadingSubtitle = "by BC_rider9",
+    LoadingSubtitle = "",
     ConfigurationSaving = {
         Enabled = true,
         FolderName = nil,
